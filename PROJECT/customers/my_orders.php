@@ -216,7 +216,7 @@ $result = $conn->query($sql);
 <center>
    <p>PHONE: 07898987654 <br>
       EMAIL:FOODORDER@GMAIL.COM <br>
-      <i>copy right @ingabireMMC</i></center>
+      <i>copy right @cedrick</i></center>
 </p>
    
 </div>
