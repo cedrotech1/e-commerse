@@ -1,0 +1,19 @@
+Names: INGABIRE Marie Merci Carine 
+REG:221022884
+phone:0781550462
+
+
+ADMIN 
+username: admin
+password: 1234
+
+USERS 1:
+
+username: didi
+password: 1234
+ 
+
+CUSTOMERS 1
+username: kevin
+password: 1234
+

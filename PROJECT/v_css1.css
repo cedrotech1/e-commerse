@@ -1,0 +1,28 @@
+
+h4{
+  color:rgb(248, 156, 36);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+  text-shadow: 2px 1px 1px black;
+}
+body{
+  background-color: rgb(226, 253, 253);
+  /* background-image:url("./assets/image/food.png");
+  opacity: 0.1; */
+}
+p{
+  font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+  background-color: rgb(248, 156, 36);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  text-shadow: 2px 1px 1px black;
+}
+.form-label,card-title{
+  /* background-color: rgb(248, 156, 36); */
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 26px;
+  text-align: center;
+  /* text-shadow: 2px 1px 1px black; */
+}

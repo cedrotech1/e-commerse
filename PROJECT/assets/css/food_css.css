@@ -1,0 +1,178 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.card{
+    background-color:  rgb(221, 216, 203);
+    color:  black;
+}
+
+.card .form-group{
+    color:  black;
+}
+
+.card .table{
+    color:  black;
+}
+
+.customer_table{
+    color:  black;
+}
+
+.cx{
+    color:  black;
+}
+
+
+
+
+.card-title, .card-header{
+  background-color: rgb(252, 250, 166);
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+
+ i {
+    background-color:  rgb(253, 254, 255);
+    width: 1cm;
+}
+
+
+.form{
+    background-color: rgb(180, 211, 238);
+}
+.header{
+    padding: 0.3cm;
+    background-color:  rgb(221, 216, 203);
+    /* border-bottom: 7px solid rgb(179, 249, 175); */
+}
+.header h3{
+    /* color:  black;  */
+
+    font-size: 40px;
+    color:rgb(26, 66, 119);
+    text-shadow: 2px 1px 1px yellow;
+    margin-top: 0.6cm;
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+
+
+img{
+    height: 2cm;
+    height: 3cm;
+}
+h3{
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+  /* /////////////////////////////////////////////////////////////////////////////// */
+  .menudiv{
+    background-color:  rgb(221, 216, 203);
+    /* border-left: 7px solid rgb(179, 249, 175);
+    border-right: 7px solid rgb(179, 249, 175); */
+    height:18cm;
+    padding-top: 1cm;
+  }
+  .list-group-item{
+    background-color:  rgb(221, 216, 203);
+    border: 0px solid whitesmoke;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+  
+    color:  black;
+
+  }
+
+  
+
+  .list-group-item a{
+  
+    color:  black;
+
+  }
+  .list-group-item:hover{
+   
+    border: 0px solid whitesmoke;
+    border-bottom: 3px solid rgb(221, 216, 203);
+    color:  black;
+    /* font-size: large; */
+
+  }
+  .statistics  .x{
+    background-color: rgb(221, 216, 203);
+    border-radius: 0.5cm;
+    margin-left:4cm;
+    margin-top:4cm;
+    height: auto;
+    padding: 0.5cm;
+   
+  }
+  .statistics  .x h3{
+    font-size: 35px;
+    color:rgb(26, 66, 119);
+    text-shadow: 2px 1px 1px yellow;
+    font-family: 'Courier New', Courier, monospace;
+  
+   
+  }
+  td,th{
+    font-family: 'Courier New', Courier, monospace;
+  
+  }
+    
+
+
+
+  .statistics{
+    /* background-color: rgb(255, 255, 255); */
+    /* height: 5cm;
+    gap: 1cm */
+  }
+  a{
+    text-decoration: none;
+  }
+  .btn{
+    background-color: rgb(26, 66, 119);
+    color:white;
+    width: 100%;
+    margin-bottom: 0.3cm;
+  }
+
+  .all{
+    padding: 0.7cm;
+    height: 5cm;
+    background-color: rgb(253, 244, 156);
+    border-bottom: 5px solid rgb(26, 66, 119);;
+  }
+  .all h3{
+    text-align: center;
+    color: rgb(26, 66, 119);
+    font-size: 44px;
+    font-weight: bold;
+    padding-top: 1cm;
+    text-transform: uppercase;
+  }
+  .all h6{
+    text-align: center;
+    color: rgb(26, 66, 119);
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 1cm;
+    text-transform: uppercase;
+  }
+  .operation{
+    background-color: rgb(221, 216, 203);
+    border-radius: 1cm;
+  }
